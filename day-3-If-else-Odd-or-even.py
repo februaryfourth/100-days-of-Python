@@ -1,5 +1,5 @@
 ### If statements
-print("Welcome to the rollercoaster!")
+print("Welcome to the rollercoaster!!")
 height = int(input("What is your height in cm?"))
 bill = 0
 if height >= 120:
